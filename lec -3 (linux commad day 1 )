@@ -1,6 +1,6 @@
 ls = show list
 cd =to go to home or open a directory 
-makdir = to make  a folder / directory
+mkdir = to make  a folder / directory
 touch= to make a file 
 rmdir= to remove an EMPTY directory 
 rm -r =to remove anything
