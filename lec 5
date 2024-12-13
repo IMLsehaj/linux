@@ -1,0 +1,3 @@
+ls -a = show all file along with hidden 
+ls -A = show all file along with hidden (don't show . ..)
+ls -l = show all file with proper detail
