@@ -1,0 +1,12 @@
+touch file_nameform..to}.txt = to create multiple files
+date +%D = show mm/dd/yy
+date +%d = show date
+date +%T = show time hh/mm/ss
+date +%m = show month
+cat file_name = show the content of the file 
+gedit file_name = edit file 
+cat > file_name = to create file and add content in it (press ctrl+d to save and exit) {if you directly press ctrl+d then an empty file is created}
+cat source_file >> file_name = copy content of source file to other file
+cat >> file_name = it start upending things in the file 
+mv .file_name file_name = hidden file to normal file
+mv file_name .file_name = normal file to hidden file
