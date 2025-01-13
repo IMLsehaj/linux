@@ -1,0 +1,6 @@
+ps - list  the process or process status
+ps aux  = list all process in background
+ps -f  = show UID (USER ID) PID(every process has unique ID(PROCESS ID)) PPID  (  PARENT PORCESS ID) 
+-9 = use to do thing forcefully
+kill -9 PID = will kill the thing forcfully
+top = task manager
