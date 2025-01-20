@@ -4,3 +4,6 @@ ps -f  = show UID (USER ID) PID(every process has unique ID(PROCESS ID)) PPID  (
 -9 = use to do thing forcefully
 kill -9 PID = will kill the thing forcfully
 top = task manager
+sort = sort all everything according to asci value
+uniq= dont't give duplicate result
+piping = 
