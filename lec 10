@@ -1,0 +1,8 @@
+sudo apt update = 
+sudo apt upgrade = 
+sudo apt remove = removes a package
+sudo apt purge = completele delete a package
+sudo apt full-upgrade = update all
+sudo apt autoremove = remove all unessary package 
+cmp file1 file2 = compare both file and tells where is the first differance in both the files
+ping url = -line utility that tests the connectivity between a local machine and a remote IP address
