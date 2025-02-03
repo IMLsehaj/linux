@@ -1,0 +1,3 @@
+su username = to switch user
+sudo adduser name = make new user 
+finger username = info about user
